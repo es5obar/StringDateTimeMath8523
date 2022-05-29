@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDateTimeMath8523", "StringDateTimeMath8523\StringDateTimeMath8523.csproj", "{3949B232-C815-4463-B16B-D634E9932B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlkHarfBuyukDigerleriKucukDemo", "IlkHarfBuyukDigerleriKucukDemo\IlkHarfBuyukDigerleriKucukDemo.csproj", "{3A93B5B8-1705-460E-A0F3-7212BB20C565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3949B232-C815-4463-B16B-D634E9932B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3949B232-C815-4463-B16B-D634E9932B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3949B232-C815-4463-B16B-D634E9932B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3949B232-C815-4463-B16B-D634E9932B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A93B5B8-1705-460E-A0F3-7212BB20C565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A93B5B8-1705-460E-A0F3-7212BB20C565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A93B5B8-1705-460E-A0F3-7212BB20C565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A93B5B8-1705-460E-A0F3-7212BB20C565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7A7F9E-788D-4DE4-AE46-06A279EE21FC}
+	EndGlobalSection
+EndGlobal
